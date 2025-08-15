@@ -7,7 +7,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and **Elect
 
 ## 🚀 About Me
 
-- 🎓 **Degree:** Electrical/Electronic Engineering
+- 🎓 **Degree:** Electrical/Electronic Engineering (B.Eng)
 - 🔒 **Cybersecurity:** Interested in securing networks, devices, and embedded systems
 - 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring networks using Cisco Packet Tracer and real hardware
 - 💻 **Backend Developer:** Skilled in building robust server-side applications
@@ -27,7 +27,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and **Elect
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [LinkedIn](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)) <!-- Add your LinkedIn URL here -->
 - [Twitter](#) <!-- Add your Twitter/X URL here -->
 - [Email](mailto:your-email@example.com) <!-- Add your email or contact method -->
 
