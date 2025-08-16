@@ -35,7 +35,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 ## 📈 GitHub Stats
 
-![IrondiUg's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrondiUg&show_icons=true&hide=prs&count_private=true&theme=radical)
+![IrondiUg's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrondiUg&show_icons=true&theme=tokyonight)
 
 ---
 
