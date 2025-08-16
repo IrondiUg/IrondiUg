@@ -7,7 +7,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 ## 🚀 About Me
 
-- 🎓 **Degree:** Electrical/Electronic Engineering (B.Eng)
+- 🎓 **Degree:** Electrical/Electronic Engineering (Communication Engineering) - B.Eng
 - 🔒 **Cybersecurity:** Interested in securing networks, devices, and embedded systems
 - 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring networks using Cisco Packet Tracer and real hardware
 - 💻 **Backend Developer:** Skilled in building robust server-side applications
