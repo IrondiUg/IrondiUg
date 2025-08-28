@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irondi Ugochukwu !
+# 👋 Hi, I'm Irondi Ugochukwu
 
 Welcome to my GitHub profile!  
 I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **Electrical/Electronic Engineering graduate** with a keen interest in building secure, scalable, and innovative systems.
@@ -36,13 +36,6 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 ## 📈 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IrondiUg&theme=react-dark)
-
-
----
-
-## ⚡ Fun Fact
-
-> I love blending hardware with software—whether it's automating my home, securing IoT devices, or building custom electronics projects.
 
 ---
 
