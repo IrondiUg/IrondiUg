@@ -16,12 +16,13 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 ---
 
 ## 🛠️ Top Skills
-
+- **Python Programming**
 - **C++ Programming**
 - **Network Design & Simulation (Cisco Packet Tracer)**
 - **Backend Development**
 - **Arduino IDE & Embedded Systems**
 - **Network Configuration & Troubleshooting**
+- **Cryptography**
 
 ---
 
