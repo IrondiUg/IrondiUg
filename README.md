@@ -28,9 +28,9 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 ## 🔗 Connect with Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)) <!-- Add your LinkedIn URL here -->
+- [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)<!-- Add your LinkedIn URL here -->
 - [Twitter/X](#) <!-- Add your Twitter/X URL here -->
-- [Send An Email](irondiugochukwu48@gmail.com) <!-- Add your email or contact method -->
+- [Send An Email](mailto:irondiugochukwu48@gmail.com) <!-- Add your email or contact method -->
 
 ---
 
