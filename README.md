@@ -34,11 +34,5 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IrondiUg&theme=react-dark)
-
----
-
 Thanks for stopping by!  
 Feel free to check out my repositories, open issues, or reach out for collaboration.
