@@ -21,15 +21,16 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 - **Network Design & Security (Router/switch/firewalls, vlan and inter-vlan routing, ACLs and SSH...)**
 - **Proteus IDE, Arduino IDE & Embedded Systems**
 - **Network Configuration & Troubleshooting**
+- **Kali Linux (Hands-on knowledge in using security tools for network assessment and system hardening)**
 - **Cryptography**
 
 ---
 
 ## 🔗 Connect with Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)<!-- Add your LinkedIn URL here -->
-- [Twitter/X](#) <!-- Add your Twitter/X URL here -->
-- [Send An Email](mailto:irondiugochukwu48@gmail.com) <!-- Add your email or contact method -->
+- [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)
+- [Twitter/X](#)
+- [Send An Email](mailto:irondiugochukwu48@gmail.com)
 
 ---
 
