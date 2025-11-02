@@ -11,7 +11,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 - 🔒 **Cybersecurity:** Interested in securing networks, devices, and embedded systems
 - 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring network devices.
 - 💻 **Python/C++ Developer:** Skilled in building secure, efficient server-side, system, and automation applications.
-- 🤖 **Embedded Systems:** Hands-on experience with Arduino IDE, microcontrollers, and IoT projects
+- 🤖 **Embedded Systems:** Hands-on experience with Arduino IDE, sensors and actuators, microcontrollers, and IoT projects
 
 ---
 
