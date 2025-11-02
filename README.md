@@ -9,7 +9,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 - 🎓 **Degree:** Electrical/Electronic Engineering (Communication/Network Engineering) - B.Eng
 - 🔒 **Cybersecurity:** Interested in securing networks, devices, and embedded systems
-- 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring networks using Cisco Packet Tracer and real hardware
+- 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring network devices.
 - 💻 **Backend Developer:** Skilled in building robust server-side applications
 - 🤖 **Embedded Systems:** Hands-on experience with Arduino IDE, microcontrollers, and IoT projects
 
@@ -18,8 +18,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 ## 🛠️ Top Skills
 - **Python Programming**
 - **C++ Programming**
-- **Network Design & Simulation (Cisco Packet Tracer)**
-- **Backend Development**
+- **Network Design & Security (Router/switch/firewalls, vlan and inter-vlan routing, ACL and SSH)**
 - **Proteus IDE, Arduino IDE & Embedded Systems**
 - **Network Configuration & Troubleshooting**
 - **Cryptography**
