@@ -9,7 +9,7 @@ I'm a passionate **Cybersecurity enthusiast**, **Network Engineer**, and an **El
 
 - 🎓 **Degree:** Electrical/Electronic Engineering (Communication/Network Engineering) - B.Eng
 - 🔒 **Cybersecurity:** Interested in securing networks, devices, and embedded systems
-- 🌐 **Network Engineer:** Experienced in designing, simulating, and configuring network devices.
+- 🌐 **Network Engineer:** Experienced in designing, configuring and securing network devices.
 - 💻 **Python/C++ Developer:** Skilled in building secure, efficient server-side, system, and automation applications.
 - 🤖 **Embedded Systems:** Hands-on experience with Arduino IDE, sensors and actuators, microcontrollers, and IoT projects
 
