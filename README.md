@@ -34,5 +34,5 @@ I'm a passionate **Cybersecurity/SOC Analyst**, **Network Engineer**, and an **E
 
 ---
 
-Thanks for stopping by!  
-Feel free to check out my repositories, open issues, or reach out for collaboration.
+**Thanks for stopping by!  
+Feel free to check out my repositories, open issues, or reach out for collaboration.**
