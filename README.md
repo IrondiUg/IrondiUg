@@ -8,7 +8,7 @@ I'm a passionate **Cybersecurity/SOC Analyst**, **Network Security Engineer**, a
 ## 🚀 About Me
 
 - 🎓 **Degree:** Electrical/Electronic Engineering (Communication/Network Engineering) - B.Eng
-- 🔒 **Cybersecurity:** Skilld in securing networks, devices, and embedded systems
+- 🔒 **Cybersecurity:** Skilled in securing networks, devices, and embedded systems
 - 🌐 **Network Security Engineer:** Experienced in designing, configuring and securing network devices.
 - 💻 **Python/C++ Developer:** Skilled in building secure, efficient server-side, system, and automation applications.
 - 🤖 **Embedded Systems:** Hands-on experience with Arduino IDE, sensors and actuators, microcontrollers, and IoT projects
