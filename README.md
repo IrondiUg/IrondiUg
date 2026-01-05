@@ -29,7 +29,6 @@ I'm a passionate **Cybersecurity/SOC Analyst**, **Network Engineer**, and an **E
 ## 🔗 Connect with Me
 
 - [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)
-- [Twitt
 - [Send An Email](mailto:irondiugochukwu48@gmail.com)
 
 ---
