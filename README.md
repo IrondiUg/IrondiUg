@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Irondi Ugochukwu
 
 Welcome to my GitHub profile!  
-I'm a passionate **Cybersecurity/SOC Analyst**, **Network Security Engineer**, and an **Electrical/Electronic Engineering graduate** with a keen interest in building secure, scalable, and innovative systems.
+I'm a passionate **Cybersecurity Analyst**, **Network Security Engineer**, and an **Electrical/Electronic Engineer** with a keen interest in building secure, scalable, and innovative systems.
 
 ---
 
