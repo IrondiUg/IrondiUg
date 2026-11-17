@@ -23,15 +23,16 @@ I focus on understanding how systems and networks work, identifying security wea
 - Routing, Switching, ACLs, NAT and SSH
 - Firewall Configuration and Security Policies
 - Network Troubleshooting and Infrastructure Security
-- Cisco Networking, MikroTik and Fortinet
+- Cisco Networking, MikroTik, Fortinet and Checkpoint
+
 **Cybersecurity & Security Operations**
 - Security Monitoring and Log Analysis
 - SIEM: Wazuh, ELK Stack
 - Vulnerability Assessment: OpenVAS, Nuclei
 - Web Application Security: OWASP ZAP, Burp Suite
-- Network Reconnaissance and Attack-Surface Management
 - Threat Detection and Incident Readiness
 - Security Hardening and Access Control
+
 **Security Infrastructure & Enterprise Technologies**
 - Check Point Security Management and Gateway Administration
 - FortiGate Security Solutions
@@ -39,7 +40,6 @@ I focus on understanding how systems and networks work, identifying security wea
 - Zabbix Infrastructure Monitoring
 - Docker and Linux Administration
 - VMware, Proxmox and Virtualized Lab Environments
-
 ---
 
 ## 🔗 Connect with Me
