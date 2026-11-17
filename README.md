@@ -17,7 +17,7 @@ I focus on understanding how systems and networks work, identifying security wea
 ---
 
 ## 🛠️ Technical Skills & Technologies
-**Network Engineering & Security**
+### **Network Engineering & Security**
 - TCP/IP, OSI Model, IPv4/IPv6 and subnetting
 - VLANs, Inter-VLAN Routing and Network Segmentation
 - Routing, Switching, ACLs, NAT and SSH
@@ -25,7 +25,7 @@ I focus on understanding how systems and networks work, identifying security wea
 - Network Troubleshooting and Infrastructure Security
 - Cisco Networking, MikroTik, Fortinet and Checkpoint
 
-**Cybersecurity & Security Operations**
+### **Cybersecurity & Security Operations**
 - Security Monitoring and Log Analysis
 - SIEM: Wazuh, ELK Stack
 - Vulnerability Assessment: OpenVAS, Nuclei
@@ -33,7 +33,7 @@ I focus on understanding how systems and networks work, identifying security wea
 - Threat Detection and Incident Readiness
 - Security Hardening and Access Control
 
-**Security Infrastructure & Enterprise Technologies**
+### **Security Infrastructure & Enterprise Technologies**
 - Check Point Security Management and Gateway Administration
 - FortiGate Security Solutions
 - Wazuh Security Monitoring
