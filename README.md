@@ -24,7 +24,6 @@ I focus on understanding how systems and networks work, identifying security wea
 - Firewall Configuration and Security Policies
 - Network Troubleshooting and Infrastructure Security
 - Cisco Networking, MikroTik and Fortinet
-
 **Cybersecurity & Security Operations**
 - Security Monitoring and Log Analysis
 - SIEM: Wazuh, ELK Stack
@@ -33,7 +32,6 @@ I focus on understanding how systems and networks work, identifying security wea
 - Network Reconnaissance and Attack-Surface Management
 - Threat Detection and Incident Readiness
 - Security Hardening and Access Control
-
 **Security Infrastructure & Enterprise Technologies**
 - Check Point Security Management and Gateway Administration
 - FortiGate Security Solutions
