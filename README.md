@@ -42,6 +42,14 @@ I focus on understanding how systems and networks work, identifying security wea
 - VMware, Proxmox and Virtualized Lab Environments
 ---
 
+## 📚 Certifications & Professional Development
+- ISC2 Certified in Cybersecurity (CC)
+- Fortinet Training NSE 1, 2 & 3
+- Check Point Certified Security Administrator (CCSA) Training – R82
+- Cisco CCNA – In Progress
+- Continued professional development in enterprise network security, cybersecurity operations and security infrastructure.
+---
+
 ## 🔗 Connect with Me
 
 - [LinkedIn Profile](https://www.linkedin.com/in/ugochukwu-irondi-07483920b)
