@@ -18,12 +18,14 @@ I focus on understanding how systems and networks work, identifying security wea
 
 ## 🛠️ Technical Skills & Technologies
 ### **Network Engineering & Security**
-- TCP/IP, OSI Model, IPv4/IPv6 and subnetting
+- Cisco Routing and Switching
+- MikroTik RouterOS
+- Fortinet FortiGate Firewalls
+- Check Point Security Gateways and SmartConsole
 - VLANs, Inter-VLAN Routing and Network Segmentation
-- Routing, Switching, ACLs, NAT and SSH
-- Firewall Configuration and Security Policies
+- TCP/IP, IPv4/IPv6, Subnetting, NAT, ACLs and SSH
+- Firewall Rules, Security Policies and Access Control
 - Network Troubleshooting and Infrastructure Security
-- Cisco Networking, MikroTik, Fortinet and Checkpoint
 
 ### **Cybersecurity & Security Operations**
 - Security Monitoring and Log Analysis
