@@ -8,11 +8,11 @@ I focus on understanding how systems and networks work, identifying security wea
 ---
 
 ## 🚀 About Me
-- **🎓 Education:** B.Eng. Electrical and Electronic Engineering (Communication & Network Engineering).
-- **🌐 Network Security:** Network design, configuration, segmentation, routing, switching, firewall administration, access control and infrastructure security.
-- **🔒 Cybersecurity Operations:** Security monitoring, vulnerability assessment, threat detection, log analysis and incident readiness.
-- **🛡️ Enterprise Security:** Firewall technologies, security policy management, network access controls, endpoint visibility and security infrastructure.
-- **🔍 Security Assessment:** External attack-surface management, web application security testing, vulnerability scanning and security configuration reviews.
+- **Education:** B.Eng. Electrical and Electronic Engineering (Communication & Network Engineering).
+- **Network Security:** Network design, configuration, segmentation, routing, switching, firewall administration, access control and infrastructure security.
+- **Cybersecurity Operations:** Security monitoring, vulnerability assessment, threat detection, log analysis and incident readiness.
+- **Enterprise Security:** Firewall technologies, security policy management, network access controls, endpoint visibility and security infrastructure.
+- **Security Assessment:** External attack-surface management, web application security testing, vulnerability scanning and security configuration reviews.
 
 ---
 
